@@ -1,2 +1,2 @@
 SELECT *
-FROM pokemon
+FROM {{ref("my_new_project", "pokemon_battle")}}
