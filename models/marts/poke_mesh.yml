@@ -1,0 +1,4 @@
+models:
+  - name: pokemon_mesh
+    access: public
+      
